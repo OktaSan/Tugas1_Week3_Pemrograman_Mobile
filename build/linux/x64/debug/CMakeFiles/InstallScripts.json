@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/chachan/StudioProjects/tugas1_week3_pemrograman_mobile/build/linux/x64/debug/cmake_install.cmake",
+		"/home/chachan/StudioProjects/tugas1_week3_pemrograman_mobile/build/linux/x64/debug/flutter/cmake_install.cmake",
+		"/home/chachan/StudioProjects/tugas1_week3_pemrograman_mobile/build/linux/x64/debug/runner/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
